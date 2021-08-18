@@ -1,4 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to my github profile
+- I'm currently working with Data 
+### let's connect on [linkedin](https://www.linkedin.com/in/armando-olivares/)
 
 <!--
 **ArmandDS/ArmandDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
