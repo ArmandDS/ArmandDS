@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github profile
 
 <!--
 **ArmandDS/ArmandDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my github profile
+
 [![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandds)](https://github.com/anuraghazra/github-readme-stats)
